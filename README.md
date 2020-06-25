@@ -26,5 +26,5 @@
 
 #### Acknowledgments
 1. Financial data provided by finiviz.com and financialmodelingprep.com.
-2. Documentation can be read https://financialmodelingprep.com/developer/docs/.
+2. Documentation can be read at https://financialmodelingprep.com/developer/docs/.
 
